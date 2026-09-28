@@ -1,6 +1,6 @@
 # Denver Regional Station Data Dashboard
 
-Station network dashboard for the GOFO Denver region. It maps ZIP coverage, routes, DSPs, pricing and daily volume for 13 stations, and includes a DSP pricing analysis page. It is a static website (no build step, no server) hosted on GitHub Pages: open the link and it works.
+Station network dashboard for the Denver region. It maps ZIP coverage, routes, DSPs, pricing and daily volume for 13 stations, and includes a DSP pricing analysis page. It is a static website (no build step, no server) hosted on GitHub Pages: open the link and it works.
 
 Based on the NorCal ops console template.
 
