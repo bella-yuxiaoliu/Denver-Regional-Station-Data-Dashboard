@@ -1,6 +1,6 @@
 # Denver 片区站点数据看板 · Denver Regional Station Data Dashboard
 
-GOFO Denver 片区的站点网络看板：在地图上查看 13 个站点的邮编覆盖、线路、DSP、价格和日均单量，另附一个 DSP 定价分析页。纯静态网页，部署在 GitHub Pages 上，打开链接即可使用，不需要服务器。
+Denver 片区的站点网络看板：在地图上查看 13 个站点的邮编覆盖、线路、DSP、价格和日均单量，另附一个 DSP 定价分析页。纯静态网页，部署在 GitHub Pages 上，打开链接即可使用，不需要服务器。
 
 This is a static site (no build step, no server). It is based on the NorCal ops console template.
 
